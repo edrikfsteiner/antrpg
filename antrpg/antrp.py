@@ -51,6 +51,7 @@ def merge_sort(arr):
 def pass_turn():
     for queen in queens:
         queen.food -= queen.pop * 0.1
+        
         for anthill in queen.anthills:
             queen.pop += anthill.pop_growth
             queen.food -= anthill.food_cost
