@@ -1,0 +1,1 @@
+A Python and MySQL CRUD project where the user access a database, that stores data of each player of an anthill RPG game,  using a Python terminal. The purpose behind it is to facilitate and speed-up the management and calculation of the antqueens and anthills data, so the game-master can spend more time in the game itself, than in calculating all the changes each player do.
